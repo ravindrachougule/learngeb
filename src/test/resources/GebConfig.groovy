@@ -44,7 +44,6 @@ environments {
 
 // To run the tests with all browsers just run “./gradlew test”
 
-//baseUrl = "http://localhost:8080/krupa/HomePageUI"
-baseUrl = "http://shreesamartha-shreesamartha.rhcloud.com/krupa/"
+
 quitCachedDriverOnShutdown = true
 atCheckWaiting = true

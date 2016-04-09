@@ -13,7 +13,7 @@ class GebHomepageSpec extends GebSpec {
         highlights.jQueryLikeApi.click()
 
         then:
-        sectionTitles == ["Navigating Content1", "Form Control Shortcuts"]
+        sectionTitles == ["Navigating Content", "Form Control Shortcuts"]
         highlights.jQueryLikeApi.selected
     }
 }
